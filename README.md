@@ -2,7 +2,7 @@
 
 Objective: we want to predict number of Yelp star ratings based on reviews by using Natural Language Processing. 
 
-Code: Day 9 Yelp project NLP.ipynb notebook file.
+Code: 9 Yelp project NLP.ipynb notebook file.
 
 Dataset: yelp.csv
 
